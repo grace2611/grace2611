@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">¡Bienvenido! Soy<a href="https://github.com/grace2611?tab=repositories"> Grace</a> 👋💻 </h1>
+  <h1 align="center">¡Welcome! I'm<a href="https://github.com/grace2611?tab=repositories"> Grace</a> 👋💻 </h1>
 </div>
 <p align="center">
   <img src="https://i.postimg.cc/tRhdDZBj/Banner-de-Twitch-sobre-gamer-pixel-art-azul-y-verde.png" alt="Imágen de perfil">
