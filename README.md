@@ -1,8 +1,7 @@
 <div align="center">
 <h1 align="center">Welcome I'm<a href="https://aristi.dev"> Grace</a> 👋💻 </h1>
 </div>
-<img src="https://ibb.co/LN78jbP">
-
+<a href="https://ibb.co/LN78jbP"><img src="https://i.ibb.co/LN78jbP/Banner-de-Twitch-sobre-gamer-pixel-art-azul-y-verde.png" alt="Banner-de-Twitch-sobre-gamer-pixel-art-azul-y-verde" border="0"></a>
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
