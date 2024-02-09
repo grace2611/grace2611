@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm <a href="https://aristi.dev">Grace</a> 👋</h1>
 </div>
 <p align="center">
-  <img src="https://i.postimg.cc/tRhdDZBj/Banner-de-Twitch-sobre-gamer-pixel-art-azul-y-verde.png" alt="Twitch Banner" width="640" height="360">
+  <img src="https://i.postimg.cc/tRhdDZBj/Banner-de-Twitch-sobre-gamer-pixel-art-azul-y-verde.png" alt="Imágen de perfil">
 </p>
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
