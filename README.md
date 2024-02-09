@@ -1,7 +1,9 @@
 <div align="center">
 <h1 align="center">Hi, I'm <a href="https://aristi.dev">Grace</a> 👋</h1>
 </div>
-<img src="https://i.ibb.co/LN78jbP/your-image.png">
+<p align="center">
+  <img src="https://i.ibb.co/LN78jbP/your-image.png" alt="Your Image" style="max-width: 100%; height: auto; object-fit: cover;">
+</p>
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
