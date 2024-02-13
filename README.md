@@ -1,13 +1,12 @@
-![BannerGIF](https://user-images.githubusercontent.com/39513876/112361914-e021f800-8cf9-11eb-9aac-a2b675065afc.gif)
+[![Ver video](https://user-images.githubusercontent.com/39513876/112361914-e021f800-8cf9-11eb-9aac-a2b675065afc.gif)](https://www.canva.com/design/DAF8KQpAjT0/VCpZoOgsGIBoHL0bdXCIdw/watch?utm_content=DAF8KQpAjT0&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
 
 
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
 
 
 
 
 <div align="center">
-  <h1 align="center">¡Welcome! I'm<a href="https://github.com/grace2611?tab=repositories"> Grace</a> <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/>💻 </h1>
+  <h1 align="center">¡Welcome! I'm<a href="https://github.com/grace2611?tab=repositories"> Grace</a> 👋💻 </h1>
 </div>
 <p align="center">
   <img src="https://i.postimg.cc/mDv7SMc0/Banner-de-Twitch-sobre-gamer-pixel-art-azul-y-verde-1.png" alt="Imágen de perfil">
