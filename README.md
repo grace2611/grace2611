@@ -6,9 +6,8 @@
 
 
 
-
 <div align="center">
-  <h1 align="center">¡Welcome! I'm<a href="https://github.com/grace2611?tab=repositories"> Grace</a> 👋💻 </h1>
+  <h1 align="center">¡Welcome! I'm<a href="https://github.com/grace2611?tab=repositories"> Grace</a> <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/>💻 </h1>
 </div>
 <p align="center">
   <img src="https://i.postimg.cc/mDv7SMc0/Banner-de-Twitch-sobre-gamer-pixel-art-azul-y-verde-1.png" alt="Imágen de perfil">
