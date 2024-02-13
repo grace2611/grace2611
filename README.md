@@ -12,19 +12,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Welcome+to+my+profile!+👋;I+hope+you+find+something+interesting;Nice+to+meet+you...+😊)](https://git.io/typing-svg)
 
-<div align="center">
-  <h1 align="center">¡Welcome! I'm<a href="https://github.com/grace2611?tab=repositories"> Grace</a> 👋💻 </h1>
-</div>
-<p align="center">
-  <img src="https://i.postimg.cc/mDv7SMc0/Banner-de-Twitch-sobre-gamer-pixel-art-azul-y-verde-1.png" alt="Imágen de perfil">
-</p>
+## 🔧 Technologies
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
-![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Welcome+to+my+profile!+👋;I+hope+you+find+something+interesting;Nice+to+meet+you...+😊)](https://git.io/typing-svg)
+![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,wordpress,nodejs,vue,react,mongodb,mysql,py,vim,docker,kubernetes,md,git,figma,bash,cloudflare,jquery,nginx,vscode&theme=light)
 
 ## Projects
 <table>
