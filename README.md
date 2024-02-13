@@ -89,7 +89,7 @@
 </td>  
 </table>                                                                                 
 </div>
-<br>
+
 ## 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=html,css,js,nodejs,git,figma,bash,jquery,vscode&theme=light)
+![skills](https://skillicons.dev/icons?i=html,css,js,nodejs,git,figma,jquery,vscode&theme=light)
