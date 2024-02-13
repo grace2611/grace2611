@@ -1,10 +1,3 @@
-[![Ver video](https://user-images.githubusercontent.com/39513876/112361914-e021f800-8cf9-11eb-9aac-a2b675065afc.gif)](https://www.canva.com/design/DAF8KQpAjT0/VCpZoOgsGIBoHL0bdXCIdw/watch?utm_content=DAF8KQpAjT0&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
-
-
-
-
-
-
 <div align="center">
   <h1 align="center">¡Welcome! I'm<a href="https://github.com/grace2611?tab=repositories"> Grace</a> 👋💻 </h1>
 </div>
@@ -23,7 +16,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">Red Social</h3>
 <div align="center">
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
 <p>
@@ -41,7 +34,7 @@
 
 <td width="50%">
                <br>
-<h3 align="center">TRIVIA</h3>
+<h3 align="center">Visualización de Datos con APIs</h3>
 <div align="center">                                       
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
@@ -62,7 +55,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Intermedio</h3>
+<h3 align="center">Encriptación de Mensajes con Cifrado César</h3>
 <div align="center">
 <a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android"></a>
 <p>
