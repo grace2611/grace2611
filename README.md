@@ -2,7 +2,6 @@
   <h1 align="center">¡Welcome! I'm<a href="https://github.com/grace2611?tab=repositories"> Grace</a> 👋💻 </h1>
 </div>
 <p align="center">
-  <img src="https://i.postimg.cc/mDv7SMc0/Banner-de-Twitch-sobre-gamer-pixel-art-azul-y-verde-1.png" alt="Imágen de perfil">
 </p>
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
